@@ -1,0 +1,10 @@
+Lista uczniów z rocznika: 1999
+(99101215381, Judyta, Kuc: 12.10.1999, Akademicka: 30/2, Gliwice)
+(99120217386, Maciej, Adamczyk: 02.12.1999, Bony: 4/3, Gliwice)
+(99081627482, Piotr, Kit: 16.08.1999, Niepodleglosci: 6, Knurow)
+(99020217181, Iza, Malce: 02.02.1999, Bony: 6/6, Gliwice)
+(99020217180, Zbigniew, Stonoga: 02.02.1999, Karakana: 6/6, Dramat)
+(99042078609, Szarlin, Baranski: 20.04.1999, Akademicka: 23, Katowice)
+(99111773222, Emanuela, Kalucki: 17.11.1999, Gryczana: 60, Bytom)
+(99081471285, Alwin, Sawinski: 14.08.1999, Owsiana: 13/6, Bytom)
+

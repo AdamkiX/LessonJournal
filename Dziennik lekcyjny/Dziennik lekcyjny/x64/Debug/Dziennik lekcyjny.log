@@ -1,0 +1,10 @@
+﻿  Dziennik lekcyjny.cpp
+  FileOpen.cpp
+C:\Users\Adamki\Desktop\STUDIA\Rok II\SEM I\PK\e0526ec5-gr12-repo\Projekt\Dziennik lekcyjny\Dziennik lekcyjny\FileOpen.cpp(19,19): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Adamki\Desktop\STUDIA\Rok II\SEM I\PK\e0526ec5-gr12-repo\Projekt\Dziennik lekcyjny\Dziennik lekcyjny\FileOpen.cpp(56,19): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Function.cpp
+  MyList.cpp
+  StudentData.cpp
+  StudentGrade.cpp
+  Generowanie kodu...
+  Dziennik lekcyjny.vcxproj -> C:\Users\Adamki\Desktop\STUDIA\Rok II\SEM I\PK\e0526ec5-gr12-repo\Projekt\Dziennik lekcyjny\x64\Debug\Dziennik lekcyjny.exe
